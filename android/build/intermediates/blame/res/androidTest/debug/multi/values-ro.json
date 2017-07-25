@@ -1,0 +1,558 @@
+[
+    {
+        "outputFile": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ro/values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 120,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 120,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 107,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 107,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 122,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 122,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 103,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 103,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 112,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 112,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 87,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 87,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 111,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 111,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 120,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 120,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 84,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 84,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 81,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 81,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 82,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 82,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 111,
+                    "endOffset": 1302
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 111,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1307,
+                    "endColumn": 112,
+                    "endOffset": 1415
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 112,
+                        "endOffset": 1415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1420,
+                    "endColumn": 99,
+                    "endOffset": 1515
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 99,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1520,
+                    "endColumn": 113,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1520,
+                        "endColumn": 113,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 104,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 104,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endColumn": 105,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 105,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 120,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 120,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 102,
+                    "endOffset": 2064
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1966,
+                        "endColumn": 102,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2069,
+                    "endColumn": 53,
+                    "endOffset": 2118
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 53,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2123,
+                    "endColumn": 68,
+                    "endOffset": 2187
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 68,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2192,
+                    "endColumn": 78,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 78,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2271,
+                    "endColumn": 70,
+                    "endOffset": 2337
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 70,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2342,
+                    "endColumn": 64,
+                    "endOffset": 2402
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 64,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2407,
+                    "endColumn": 55,
+                    "endOffset": 2458
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 55,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2463,
+                    "endColumn": 58,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 58,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 73,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.facebook.react/react-native/0.11.0/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 73,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2596,
+                    "endColumn": 82,
+                    "endOffset": 2674
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 82,
+                        "endOffset": 2147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2679,
+                    "endColumn": 100,
+                    "endOffset": 2775
+                },
+                "from": {
+                    "file": "/Users/nickming/Desktop/ReactWeather/android/msc-speech/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-ro/values-ro.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2152,
+                        "endColumn": 100,
+                        "endOffset": 2248
+                    }
+                }
+            }
+        ]
+    }
+]

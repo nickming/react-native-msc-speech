@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/nickming/Desktop/ReactWeather/android/msc-speech/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/nickming/Desktop/ReactWeather/android/msc-speech/src/release/shaders"/></dataSet></merger>

@@ -1,0 +1,15 @@
+{
+  "name": "react-native-msc-speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+[https://github.com/nickming/react-native-msc-speech.git](https://github.com/nickming/react-native-msc-speech.git)"
+  },
+  "author": "nickming",
+  "license": "ISC"
+}
