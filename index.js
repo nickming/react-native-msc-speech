@@ -8,24 +8,25 @@ const speech = {
      * @param {string} content 
      * @param {function} callback 
      */
-    speak(ios, content, callback) {
+    speak(ios, context, callback) {
         if (ios) {
-            let options = {},
-            if (content.constructor == String) {
-                options.text = content;
+            let options = {};
+            if (context.constructor === String) {
+                options.text = context;
                 options.language = 'zh-CH';
             } else {
-                options = content;
+                options = context;
             }
             if (!callback) {
                 callback = function callback(argument) { }
             }
             MscSpeech.speak(options, callback);
         } else {
-            MscSpeech.speak(content, callback);
+            MscSpeech.speak(context, callback);
         }
     }
 }
 
 export default speech;
+
 
