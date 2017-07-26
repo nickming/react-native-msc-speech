@@ -27,3 +27,5 @@ const speech = {
     }
 }
 
+export default speech;
+
