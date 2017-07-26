@@ -7,8 +7,8 @@
 //
 
 #import "MscSpeech.h"
-#import "RCTUtils.h"
-#import "RCTLog.h"
+// #import <RCTUtils.h>
+// #import <RCTLog.h>
 
 @implementation MscSpeech
 
@@ -25,7 +25,7 @@ RCT_EXPORT_METHOD(speak:(NSDictionary *)args callback:(RCTResponseSenderBlock)ca
 {
     // Error if self.synthesizer was already initialized
     if (self.synthesizer) {
-        return callback(@[RCTMakeError(@"There is a speech in progress.  Use the `paused` method to know if it's paused.", nil, nil)]);
+        return callback(@"error");
     }
     
     // Set args to variables
@@ -35,7 +35,7 @@ RCT_EXPORT_METHOD(speak:(NSDictionary *)args callback:(RCTResponseSenderBlock)ca
     
     // Error if no text is passed
     if (!text) {
-        RCTLogError(@"[Speech] You must specify a text to speak.");
+        // RCTLogError(@"[Speech] You must specify a text to speak.");
         return;
     }
     
