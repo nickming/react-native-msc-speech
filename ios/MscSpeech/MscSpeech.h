@@ -7,9 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <AVFoundation/AVFoundation.h>
 #import <React/RCTBridgeModule.h>
 
-@interface MscSpeech : NSObject<RCTBridgeModule>
 
+@interface MscSpeech : NSObject<RCTBridgeModule,AVSpeechSynthesizerDelegate>
+@property (nonatomic, strong) RCTResponseSenderBlock callback;
+
+@property (nonatomic, strong) AVSpeechSynthesizer *synthesizer;
 @end

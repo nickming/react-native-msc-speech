@@ -46,6 +46,7 @@
 			children = (
 				A2F2B6E91F2769BF007CC68F /* MscSpeech */,
 				A2F2B6E81F2769BF007CC68F /* Products */,
+				A2F2B7691F28B323007CC68F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,6 +65,13 @@
 				A2F2B6EB1F2769BF007CC68F /* MscSpeech.m */,
 			);
 			path = MscSpeech;
+			sourceTree = "<group>";
+		};
+		A2F2B7691F28B323007CC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,6 +233,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEVELOPMENT_TEAM = PMR4PH8PU6;
+				ENABLE_BITCODE = NO;
+				HEADER_SEARCH_PATHS = "";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -235,6 +245,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEVELOPMENT_TEAM = PMR4PH8PU6;
+				ENABLE_BITCODE = NO;
+				HEADER_SEARCH_PATHS = "";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -260,6 +272,7 @@
 				A2F2B6F21F2769BF007CC68F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
